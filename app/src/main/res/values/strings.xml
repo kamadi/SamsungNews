@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SamsungNewsCrawler</string>
+    <string name="transition_string">Transition</string>
+    <string name="animation">animation</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="search_title">Search</string>
+    <string name="search_view_hint">Actor name</string>
+    <string name="github_link">View on GitHub</string>
+    <string name="transition_image">transition_image</string>
+    <string name="transition_title">transition_title</string>
+    <string name="production_poster">Production Poster</string>
+    <string name="categorySelect">category select</string>
+    <string name="select_category">Select category</string>
+</resources>
